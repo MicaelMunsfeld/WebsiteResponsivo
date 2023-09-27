@@ -1,0 +1,31 @@
+.bg-pink-claro {
+	background-color: #f38eb6;
+}
+
+.text-green-escuro {
+	color: #01a95e !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #01a95e;
+    border-color: #01a95e;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #f38eb6;
+    border-color: #f38eb6;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    color: #fff;
+    background-color: #01a95e;
+    border-color: #01a95e;
+}
+
+a {
+    color: #01a95e;
+    text-decoration: none;
+    background-color: transparent;
+}
